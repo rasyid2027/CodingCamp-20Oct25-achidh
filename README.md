@@ -11,19 +11,6 @@ Welcome to my personal portfolio website! This is a modern, responsive, and inte
 - **Responsive Layout**: Works seamlessly on all device sizes
 - **Project Showcase**: Highlighting key projects with descriptions and tech stacks
 
-### Profile Section
-- **About Me**: Personal introduction and professional background
-- **Skills Overview**: Visual representation of technical skills and proficiency levels
-- **Contact Information**: Easy ways to get in touch
-
-### Portfolio Highlights
-- **Santri Management App**: Web application for student management
-- **SOPs Management App**: Administrative system for managing standard operating procedures
-- **Pondokbersanad.com**: Informational website built with WordPress
-- **Kosify**: Boarding house booking and management platform
-- **Finapp**: Personal finance management application
-- **On-Quran-line App**: Interactive Quran learning platform
-
 ## Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Styling**: Custom CSS with modern design principles
